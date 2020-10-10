@@ -1,4 +1,8 @@
-# focus-chrome-extension
+# search-github-extension
+
+# This is project that we contribute for hacktoberfest
+
+![Image of Hacktober](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
 
 ## How to build
 
